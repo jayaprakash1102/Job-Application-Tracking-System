@@ -4,7 +4,7 @@ Team Lead         T.Jayaprakash
 Team Member 1     Muthamial selvan
                    -https://trailblazer.me/id/muthk14
 Team Member 2     Pachiyappan
-                   -https://traiblazer.me/id/paspc
+                   -https://trailblazer.me/id/paspc
 Team Member 3     Madhesh 
                   –https://trailblazer.me/id/madhesh0511
 
